@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "root",
+        "password": null,
+        "database": "simplyfy",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
